@@ -1,1 +1,1 @@
-Diagrama de flujo y PSINT
+Ejercicio que calcula cuánto tiempo se tarda en leer una población en especifico.
