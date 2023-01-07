@@ -46,6 +46,7 @@ FinAlgoritmo
 
  # Diagrama de flujo edad
  ![image](https://user-images.githubusercontent.com/119714900/211166030-8b044b61-d9d7-45b5-a2e5-cc90c29b1be2.png)
+ ![image](https://user-images.githubusercontent.com/119714900/211166189-7a9b6500-1e7d-434b-ba6a-4b48c742a4eb.png)
  ![image](https://user-images.githubusercontent.com/119714900/211166048-572ad822-59cf-40ff-a9d1-69aa80878731.png)
 
 
