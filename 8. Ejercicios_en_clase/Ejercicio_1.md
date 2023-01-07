@@ -24,4 +24,30 @@ Algoritmo sin_titulo
  ![image](https://user-images.githubusercontent.com/119714900/208263933-ea86cd26-794a-41af-915c-cf7b5373c5d6.png)
  # pseudocódigo
  ![image](https://user-images.githubusercontent.com/119714900/208264009-adb9ff49-2222-4bf0-b31e-e368611ea186.png)
+ 
+ # Algoritmo edad
+ 
+ Algoritmo Calculo_de_edad
+	edad <- 0
+	Escribir 'Ingresa tu edad'
+	Leer edad 
+	Si edad>0 y edad<120 Entonces
+		Si edad>=18 Entonces
+			Escribir 'Eres mayor de edad'
+		SiNo
+			Escribir "Eres menor de edad"
+		FinSi
+		
+	SiNo
+		Escribir"Ingresa edad correcta"
+	Fin Si
+	
+FinAlgoritmo
+
+ # diagrama de flujo
+ ![image](https://user-images.githubusercontent.com/119714900/211166030-8b044b61-d9d7-45b5-a2e5-cc90c29b1be2.png)
+ ![image](https://user-images.githubusercontent.com/119714900/211166048-572ad822-59cf-40ff-a9d1-69aa80878731.png)
+
+
+
 
