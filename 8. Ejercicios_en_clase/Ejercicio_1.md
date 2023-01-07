@@ -50,19 +50,24 @@ FinAlgoritmo
  ![image](https://user-images.githubusercontent.com/119714900/211166048-572ad822-59cf-40ff-a9d1-69aa80878731.png)
 
 # Algoritmo número par
+
 Algoritmo numeros_par
 	num<-0
 	Escribir "Ingresa el número"
-	Leer numero
-	Si MOD2num==0 Entonces
+	Leer num
+	Si num MOD 2 == 0 Entonces
 		Escribir "Es un número par"
 	SiNo
 		Escribir "Es un número impar"
-		Fin Si
+	Fin Si
+
 FinAlgoritmo
 
+
  # Diagrama de flujo numero par
- ![image](https://user-images.githubusercontent.com/119714900/211167888-44c8bc4c-f068-40a2-a84a-2393c99d9e8e.png)
+ 
+![image](https://user-images.githubusercontent.com/119714900/211169278-7373c60e-919d-4641-b929-df3ae0287b09.png)
+
 
  
 
