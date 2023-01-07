@@ -49,6 +49,21 @@ FinAlgoritmo
  ![image](https://user-images.githubusercontent.com/119714900/211166189-7a9b6500-1e7d-434b-ba6a-4b48c742a4eb.png)
  ![image](https://user-images.githubusercontent.com/119714900/211166048-572ad822-59cf-40ff-a9d1-69aa80878731.png)
 
+# Algoritmo número par
+Algoritmo numeros_par
+	num<-0
+	Escribir "Ingresa el número"
+	Leer numero
+	Si MOD2num==0 Entonces
+		Escribir "Es un número par"
+	SiNo
+		Escribir "Es un número impar"
+		Fin Si
+FinAlgoritmo
 
+ # Diagrama de flujo numero par
+ ![image](https://user-images.githubusercontent.com/119714900/211167888-44c8bc4c-f068-40a2-a84a-2393c99d9e8e.png)
+
+ 
 
 
