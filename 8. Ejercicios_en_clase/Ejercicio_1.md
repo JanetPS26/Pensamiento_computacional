@@ -18,7 +18,7 @@ Algoritmo sin_titulo
 	dias=horas/24
 	años=dias/365
 	Escribir "segundos ="," ",segundoss," ","minutos ="," ",minutos," ","horas = ", horas," ","dias = "," ",dias," ","años = "," ",años;
- # diagrama de flujo
+ # Diagrama de flujo poblacion
  ![image](https://user-images.githubusercontent.com/119714900/208263949-2a125d90-9dc7-4bf9-8fff-f0dce8c1d244.png)
 
  ![image](https://user-images.githubusercontent.com/119714900/208263933-ea86cd26-794a-41af-915c-cf7b5373c5d6.png)
