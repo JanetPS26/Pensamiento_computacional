@@ -84,5 +84,7 @@ FinAlgoritmo
 
 # Diagrama de flujo
 
-![image](https://user-images.githubusercontent.com/119714900/213831636-6dd7747f-6b79-48b1-9997-2a2cc60daf74.png)
+![image](https://user-images.githubusercontent.com/119714900/213831672-faa2ed88-2fbd-450e-9ce0-0e5b95ee0d57.png)
+![image](https://user-images.githubusercontent.com/119714900/213831691-9deb6c67-eb87-435e-9f69-b5c8f1058cc5.png)
+
 
