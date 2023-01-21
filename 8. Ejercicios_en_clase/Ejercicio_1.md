@@ -182,3 +182,39 @@ FinAlgoritmo
 
 ![image](https://user-images.githubusercontent.com/119714900/213841541-50014410-af15-46ed-a257-477ffc0e4415.png)
 ![image](https://user-images.githubusercontent.com/119714900/213841545-4cf82ab7-7a7d-45fe-9880-b7b6bae082ff.png)
+
+
+# Algoritmo Recomendaciones_cine_libros_comida_lugares_salir
+	recomendacion<-0
+	
+	Escribir "Ingrese la recomendación que deseas recibir: 1.- Cine 2.- Libros 3.- Comida 4.- Lugares 5.- Salir"
+	Leer recomendacion
+	Mientras recomendacion <> 5 Hacer
+		Segun recomendacion Hacer
+			1:
+				Escribir "====CINE====="
+				Escribir "AVATAR , GATO_CON_BOTAS"
+			2:
+				Escribir "====LIBROS====="
+				Escribir "uN MUNDO FELIZ ,  DON QUIJOTE"
+			3:
+				Escribir "====COMIDA====="
+				Escribir "ENSALADAS Y PIZZA"
+			4:
+				Escribir "====LUGARES====="
+				Escribir "MUSEO DE ANTROPOLOGÍA Y CHAPULTEPEC"
+			De Otro Modo:
+				Escribir "OPCION INVALIDA"
+		Fin Segun
+		Escribir "Ingrese la recomendación que deseas recibir: 1.- Cine 2.- Libros 3.- Comida 4.- Lugares 5.- Salir"
+		Leer recomendacion
+	Fin Mientras
+	
+	Escribir "HASTA LUEGO"
+	
+FinAlgoritmo
+
+# FLUJO
+![image](https://user-images.githubusercontent.com/119714900/213881313-6d10bd6f-4eb6-425f-88d5-ff93b8f2b98c.png)
+
+![image](https://user-images.githubusercontent.com/119714900/213881325-54cd3b00-6398-4237-b7e8-1564a7f7cd65.png)
