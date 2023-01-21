@@ -219,3 +219,23 @@ FinAlgoritmo
 ![image](https://user-images.githubusercontent.com/119714900/213881313-6d10bd6f-4eb6-425f-88d5-ff93b8f2b98c.png)
 
 ![image](https://user-images.githubusercontent.com/119714900/213881325-54cd3b00-6398-4237-b7e8-1564a7f7cd65.png)
+
+# Ciclo FOR
+Algoritmo multiplicar
+	num<-0
+	res<-0
+	Escribir "De que número requieres la tabla de multiplicar"
+	leer num
+
+	Para i<-1 Hasta 10 Con Paso 1 Hacer
+		res<-num*i
+		Escribir num," * ",i," = ",res
+	Fin Para
+FinAlgoritmo
+ 
+# flujo
+
+![image](https://user-images.githubusercontent.com/119714900/213882360-0a9cdec6-66ce-4a29-8b46-7d2f5122bcc3.png)
+
+![image](https://user-images.githubusercontent.com/119714900/213882368-ed25e0cf-93c3-4337-808c-85364d34bcd0.png)
+
