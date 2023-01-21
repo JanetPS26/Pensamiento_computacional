@@ -87,4 +87,43 @@ FinAlgoritmo
 ![image](https://user-images.githubusercontent.com/119714900/213831672-faa2ed88-2fbd-450e-9ce0-0e5b95ee0d57.png)
 ![image](https://user-images.githubusercontent.com/119714900/213831691-9deb6c67-eb87-435e-9f69-b5c8f1058cc5.png)
 
+#  Números pares
 
+Algoritmo numeros_pares
+	Definir x Como Entero	
+	x=0
+	Mientras x <= 100 Hacer
+		si x mod 2 == 0 Entonces
+			Escribir x
+			
+		FinSi
+		x=x+1
+	FinMientras
+FinAlgoritmo
+
+# flujo
+![image](https://user-images.githubusercontent.com/119714900/213836899-737da725-0618-4d70-9880-43b9edf9f3b5.png)
+![image](https://user-images.githubusercontent.com/119714900/213836985-99de799f-9813-42e0-9a33-ef5524fa7b94.png)
+
+
+# Lápices
+
+Algoritmo Lapices
+	Definir x Como Entero
+	Definir total Como Real
+	Escribir 'Ingresa la cantidad de lápices a comprar'
+	Leer n
+	Si n >= 1000 Entonces
+		total = n * 0.85
+	SiNo
+		total = n * 0.90
+	FinSi
+	Escribir "La cantidad a pagar por ", n, " lápices es de: $ ",total, " Pesos "
+FinAlgoritmo
+
+
+# Flujo 
+
+![image](https://user-images.githubusercontent.com/119714900/213837228-52ce4da8-0552-4870-9976-9f3af470948d.png)
+
+![image](https://user-images.githubusercontent.com/119714900/213837315-df909911-d85d-4e02-ab14-f2ac69772d69.png)
