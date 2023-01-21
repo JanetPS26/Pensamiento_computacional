@@ -127,3 +127,30 @@ FinAlgoritmo
 ![image](https://user-images.githubusercontent.com/119714900/213837228-52ce4da8-0552-4870-9976-9f3af470948d.png)
 
 ![image](https://user-images.githubusercontent.com/119714900/213837315-df909911-d85d-4e02-ab14-f2ac69772d69.png)
+
+
+# Edad promedio
+
+Algoritmo edad_promedio
+	Definir total,edad,suma Como Entero
+	Definir promedio Como Real
+	Escribir "Ingrese el total de alumnos"
+	Leer total
+	x=1
+	suma=0
+	Mientras x <= total Hacer
+		Escribir "Ingrese su edad"
+		Leer edad
+		suma=suma+edad
+		x=x+1
+		
+	FinMientras
+	Escribir "El promedio de edades del grupo es de " , suma / total , " años"
+	
+FinAlgoritmo
+
+# Flujo
+
+![image](https://user-images.githubusercontent.com/119714900/213840212-49ecd89e-10af-48cf-ac1d-e22f2ff6e136.png)
+
+![image](https://user-images.githubusercontent.com/119714900/213840223-62f52b81-1f59-47e5-9928-a9e128e3ce00.png)
