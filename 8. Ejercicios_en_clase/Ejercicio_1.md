@@ -154,3 +154,31 @@ FinAlgoritmo
 ![image](https://user-images.githubusercontent.com/119714900/213840212-49ecd89e-10af-48cf-ac1d-e22f2ff6e136.png)
 
 ![image](https://user-images.githubusercontent.com/119714900/213840223-62f52b81-1f59-47e5-9928-a9e128e3ce00.png)
+
+# promedios de calificaciones
+
+Algoritmo Calificaciones
+	Definir total,calificacion,suma Como Entero
+	Definir promedio Como Real
+	Escribir 'Ingrese el número total de calificaciones a capturar'
+	Leer total
+	x <- 1
+	suma <- 0
+	Mientras x<=total Hacer
+		Escribir 'Ingrese la calificacion'
+		Leer calificacion
+		suma <- suma+calificacion
+		x <- x+1
+	FinMientras
+	
+	Si suma/total>=4.0 Entonces
+		Escribir "El promedio de alumno es de ", suma/total, " se encuentra aprobado"
+	SiNo
+		Escribir "El promedio de alumno es de ", suma/total, " se encuentra reprobado"
+	FinSi
+FinAlgoritmo
+
+# Flujo
+
+![image](https://user-images.githubusercontent.com/119714900/213841541-50014410-af15-46ed-a257-477ffc0e4415.png)
+![image](https://user-images.githubusercontent.com/119714900/213841545-4cf82ab7-7a7d-45fe-9880-b7b6bae082ff.png)
