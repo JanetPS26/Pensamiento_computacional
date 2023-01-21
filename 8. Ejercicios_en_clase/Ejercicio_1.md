@@ -184,7 +184,8 @@ FinAlgoritmo
 ![image](https://user-images.githubusercontent.com/119714900/213841545-4cf82ab7-7a7d-45fe-9880-b7b6bae082ff.png)
 
 
-# Algoritmo Recomendaciones_cine_libros_comida_lugares_salir
+# ciclo while 
+Algoritmo Recomendaciones_cine_libros_comida_lugares_salir
 	recomendacion<-0
 	
 	Escribir "Ingrese la recomendación que deseas recibir: 1.- Cine 2.- Libros 3.- Comida 4.- Lugares 5.- Salir"
