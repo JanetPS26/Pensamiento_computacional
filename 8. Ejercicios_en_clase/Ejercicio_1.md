@@ -68,7 +68,20 @@ FinAlgoritmo
  
 ![image](https://user-images.githubusercontent.com/119714900/211169278-7373c60e-919d-4641-b929-df3ae0287b09.png)
 
+# Pseudocodigo que imprima los números pares que se encuentran entre 0 y 100.
 
- 
+ Algoritmo numeros_pares
+	Definir x Como Entero	
+	x=0
+	Mientras x <= 100 Hacer
+		si x mod 2 == 0 Entonces
+			Escribir x
+			
+		FinSi
+		x=x+1
+	FinMientras
+FinAlgoritmo
 
+# Diagrama de flujo
 
+![image](https://user-images.githubusercontent.com/119714900/213831583-54f7a4fd-8105-43e5-a89d-76b38372f18e.png)
